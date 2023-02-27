@@ -1,0 +1,24 @@
+body{
+    background-image: url("image/hello.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 47%;
+    background-size: 45%;
+}
+.btn{
+    margin-left: 47%;
+    border:1px solid;
+    background: rgb(252, 210, 72);
+    font-family: cursive;
+    color: black;
+    width: 45%;
+    border-radius: 5px;
+    text-decoration: none;
+    box-sizing: border-box;
+    border-width: 1px;
+}
+
+.hero{
+    width: 45px;
+}

@@ -1,0 +1,30 @@
+.full form input{
+    width: 92%;
+    height: 30px;
+    border-radius: 0;
+    border-color:rgb(154, 154, 154);
+}
+.full{
+   
+    margin-left: 20px;
+
+    
+}
+.full form button{
+    font-size: 15px;
+ 
+}
+.box{
+    border: 1px solid;
+    border-color:rgba(179, 242, 234, 0.923);
+    width: 22.60%;
+    margin-left: 20px;
+    height: 270px;
+    background: rgba(179, 242, 234, 0.923);
+    box-shadow: 2px 2px 2px rgb(151, 149, 149);
+}
+.rimage{
+    border-radius: 50%;
+    height: 30px;
+    
+}
